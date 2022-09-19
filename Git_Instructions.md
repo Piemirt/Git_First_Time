@@ -2,13 +2,13 @@
 
 ## Основные команды Git.
 
-* git init - 
-* git status - 
-* git add - 
-* git commit -m "message" - 
-* git log - 
-* git checkout - 
-* git checkout master - 
-* git diff
+* git init - инициализация локального репозитория
+* git status - получение информации о текущем состоянии
+* git add - добавить файл к следующему коммиту
+* git commit -m "message" - создание коммита
+* git log - история всех коммитов с хеш-кодами
+* git checkout - переход от одного коммита к другому
+* git checkout master - вернуться к актуальному состоянию и продолжить работу
+* git diffразница между текущим файлом и файлом с коммитом
 
 ### Такие вот основные команды Git.
